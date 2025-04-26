@@ -49,9 +49,3 @@
     </td>
   </tr>
 </table>
-
-
-
----
-
-<p align="center">Thanks for stopping by! 🚀</p>
