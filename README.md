@@ -39,16 +39,17 @@
 
 ### 📈 GitHub Stats
 
-<table width="100%">
+<table width="100%" style="border: none; border-spacing: 0;">
   <tr>
-    <td align="center">
+    <td align="center" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=Fadi-Ayman&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fadi-Ayman&theme=tokyonight&hide_border=true" alt="Streak Stats" />
     </td>
   </tr>
 </table>
+
 
 
 ---
