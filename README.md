@@ -6,42 +6,32 @@
 </p>
 
 ---
+## 💻 Tech Stack:
 
-### 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
 
-#### 💡 Core Skills
+---
 
-<p align="left">
-  <img src="/skills/html.png" alt="HTML" width="40" title="HTML" />
-  <img src="/skills/css.png" alt="CSS" width="40" title="CSS" />
-  <img src="/skills/javascript.png" alt="JavaScript" width="40" title="JavaScript" />
-  <img src="/skills/typescript.png" alt="TypeScript" width="40" title="TypeScript" />
-  <img src="/skills/git.png" alt="Git" width="40" title="Git" />
-  <img src="/skills/github.png" alt="GitHub" width="40" title="GitHub" />
-</p>
+## 🧩 Libraries & Tools:
 
-#### ⚛️ Frameworks & Styling
-
-<p align="left">
-  <img src="/skills/react.png" alt="React" width="40" title="React" />
-  <img src="/skills/next.png" alt="Next.js" width="40" title="Next.js" />
-  <img src="/skills/bootstrap.png" alt="Bootstrap" width="40" title="Bootstrap" />
-  <img src="/skills/tailwind.png" alt="Tailwind CSS" width="40" title="Tailwind CSS" />
-  <img src="/skills/styled-components.png" alt="Styled Components" width="40" title="Styled Components" />
-  <img src="/skills/material-ui.png" alt="Material UI" width="40" title="Material UI" />
-</p>
-
-#### ⚙️ Libraries & Utilities
-
-<p align="left">
-  <img src="/skills/redux.png" alt="Redux Toolkit" width="40" title="Redux Toolkit" />
-  <img src="/skills/react-hook-form.png" alt="React Hook Form" width="40" title="React Hook Form" />
-  <img src="/skills/formik.png" alt="Formik" width="40" title="Formik" />
-  <img src="/skills/react-query.png" alt="React Query" width="40" title="React Query" />
-  <img src="/skills/axios.png" alt="Axios" width="40" title="Axios" />
-  <img src="/skills/framer.png" alt="Framer Motion" width="40" title="Framer Motion" />
-  <img src="/skills/capacitor.png" alt="Capacitor JS" width="40" title="Capacitor JS" />
-</p>
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-%2300BFFF.svg?style=for-the-badge&logo=axios&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Formik](https://img.shields.io/badge/Formik-EEC06E?style=for-the-badge&logo=formik&logoColor=black)
 
 ---
 
