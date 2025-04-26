@@ -39,9 +39,9 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fadi-Ayman&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fadi-Ayman&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+<p align="center" style="display: flex; justify-content: space-between; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fadi-Ayman&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="flex: 1; margin-right: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fadi-Ayman&theme=tokyonight&hide_border=true" alt="Streak Stats" style="flex: 1; margin-left: 10px;"/>
 </p>
 
 ---
